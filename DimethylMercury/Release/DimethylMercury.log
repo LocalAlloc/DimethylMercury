@@ -1,0 +1,25 @@
+﻿  Payloads.cpp
+D:\source\repos\DimethylMercury\Payloads.cpp(60,85): warning C4244: '=': conversion from 'unsigned long' to 'char', possible loss of data
+D:\source\repos\DimethylMercury\Payloads.cpp(524,14): warning C4244: 'initializing': conversion from 'ULONGLONG' to 'int', possible loss of data
+D:\source\repos\DimethylMercury\Payloads.cpp(556,14): warning C4244: 'initializing': conversion from 'ULONGLONG' to 'int', possible loss of data
+D:\source\repos\DimethylMercury\Payloads.cpp(588,14): warning C4244: 'initializing': conversion from 'ULONGLONG' to 'int', possible loss of data
+D:\source\repos\DimethylMercury\Payloads.cpp(728,14): warning C4244: 'initializing': conversion from 'ULONGLONG' to 'int', possible loss of data
+D:\source\repos\DimethylMercury\Payloads.cpp(792,14): warning C4244: 'initializing': conversion from 'ULONGLONG' to 'int', possible loss of data
+D:\source\repos\DimethylMercury\Payloads.cpp(856,14): warning C4244: 'initializing': conversion from 'ULONGLONG' to 'int', possible loss of data
+D:\source\repos\DimethylMercury\Payloads.cpp(1021,10): warning C4101: 'bl': unreferenced local variable
+D:\source\repos\DimethylMercury\Payloads.cpp(1256,17): warning C4101: 'rgbquadCopy': unreferenced local variable
+  main.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\filesystem(13): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+D:\source\repos\DimethylMercury\main.cpp(89,27): warning C4129: 'T': unrecognized character escape sequence
+D:\source\repos\DimethylMercury\main.cpp(89,27): warning C4129: 's': unrecognized character escape sequence
+D:\source\repos\DimethylMercury\main.cpp(89,27): warning C4129: 'I': unrecognized character escape sequence
+D:\source\repos\DimethylMercury\main.cpp(89,27): warning C4129: 'p': unrecognized character escape sequence
+D:\source\repos\DimethylMercury\main.cpp(89,27): warning C4129: 'D': unrecognized character escape sequence
+D:\source\repos\DimethylMercury\main.cpp(90,24): warning C4129: 'T': unrecognized character escape sequence
+D:\source\repos\DimethylMercury\main.cpp(90,24): warning C4129: 'S': unrecognized character escape sequence
+  Generating code
+  2 of 274 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  DimethylMercury.vcxproj -> D:\source\repos\DimethylMercury\Release\DimethylMercury.exe
