@@ -1,0 +1,25 @@
+﻿  Sound.cpp
+D:\source\repos\DimethylMercury\Sound.cpp(199,50): warning C4838: conversion from 'INT' to 'DWORD' requires a narrowing conversion
+D:\source\repos\DimethylMercury\Sound.cpp(199,81): warning C4838: conversion from 'int' to 'DWORD' requires a narrowing conversion
+D:\source\repos\DimethylMercury\Sound.cpp(200,53): warning C4838: conversion from 'int' to 'DWORD' requires a narrowing conversion
+D:\source\repos\DimethylMercury\Sound.cpp(268,31): warning C4244: 'argument': conversion from 'INT' to 'FLOAT', possible loss of data
+D:\source\repos\DimethylMercury\Sound.cpp(267,46): warning C4244: 'argument': conversion from 'FLOAT' to 'INT', possible loss of data
+D:\source\repos\DimethylMercury\Sound.cpp(330,34): warning C4244: 'argument': conversion from 'INT' to 'FLOAT', possible loss of data
+D:\source\repos\DimethylMercury\Sound.cpp(396,60): warning C4244: 'argument': conversion from 'INT' to 'FLOAT', possible loss of data
+D:\source\repos\DimethylMercury\Sound.cpp(445,35): warning C4244: 'argument': conversion from 'INT' to 'FLOAT', possible loss of data
+D:\source\repos\DimethylMercury\Sound.cpp(486,39): warning C4244: 'argument': conversion from 'INT' to 'FLOAT', possible loss of data
+  main.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\filesystem(13): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+D:\source\repos\DimethylMercury\main.cpp(92,27): warning C4129: 'T': unrecognized character escape sequence
+D:\source\repos\DimethylMercury\main.cpp(92,27): warning C4129: 's': unrecognized character escape sequence
+D:\source\repos\DimethylMercury\main.cpp(92,27): warning C4129: 'I': unrecognized character escape sequence
+D:\source\repos\DimethylMercury\main.cpp(92,27): warning C4129: 'p': unrecognized character escape sequence
+D:\source\repos\DimethylMercury\main.cpp(92,27): warning C4129: 'D': unrecognized character escape sequence
+D:\source\repos\DimethylMercury\main.cpp(93,24): warning C4129: 'T': unrecognized character escape sequence
+D:\source\repos\DimethylMercury\main.cpp(93,24): warning C4129: 'S': unrecognized character escape sequence
+  Generating code
+  2 of 302 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  DimethylMercury.vcxproj -> D:\source\repos\DimethylMercury\Release\DimethylMercury.exe
